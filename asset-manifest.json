@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fbf8c8a.css",
-    "main.js": "/static/js/main.d486a6d6.js",
-    "index.html": "/index.html",
-    "main.1fbf8c8a.css.map": "/static/css/main.1fbf8c8a.css.map",
-    "main.d486a6d6.js.map": "/static/js/main.d486a6d6.js.map"
+    "main.css": "/Motivator/static/css/main.1fbf8c8a.css",
+    "main.js": "/Motivator/static/js/main.d486a6d6.js",
+    "index.html": "/Motivator/index.html",
+    "main.1fbf8c8a.css.map": "/Motivator/static/css/main.1fbf8c8a.css.map",
+    "main.d486a6d6.js.map": "/Motivator/static/js/main.d486a6d6.js.map"
   },
   "entrypoints": [
     "static/css/main.1fbf8c8a.css",
